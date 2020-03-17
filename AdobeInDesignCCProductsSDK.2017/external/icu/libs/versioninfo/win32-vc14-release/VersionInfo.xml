@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest version="2.0">
+ <versioninfo>
+  <build build="20160306.1003" compilertarget="Release" datetime="2016/03/06:14:15:28" format="Folder" lang="mul" licensemodel="None" platform="win32" product="AGL" subproduct="Library" version="4.3">
+   <repository authority="ssl:wasabi.corp.adobe.com:20300" path="//releases/gtlib/gtlib_9.0/source/aglc/aglc40/source/..." query="@1615230" scheme="p4"/>
+   <metadata>
+    <item key="BuildVersion" value="gtlib_8.0.21927"/>
+   </metadata>
+  </build>
+ </versioninfo>
+</manifest>

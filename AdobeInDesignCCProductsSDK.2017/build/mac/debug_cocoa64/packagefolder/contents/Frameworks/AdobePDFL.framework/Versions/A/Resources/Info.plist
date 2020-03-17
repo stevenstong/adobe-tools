@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcrobatCL</key>
+	<string>129163</string>
+	<key>BuildDate</key>
+	<string>2016/09/26-15:21:00</string>
+	<key>BuildID</key>
+	<string>37239</string>
+	<key>BuildVersion</key>
+	<string>79.203184</string>
+	<key>CFBundleExecutable</key>
+	<string>AdobePDFL</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AdobePDFL 15.0.0.37239, © 1987-2015 Adobe Systems Incorporated.
+ All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.PDFL</string>
+	<key>CFBundleName</key>
+	<string>AdobePDFL</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>PROD_MAJOR.PROD_MINOR.PROD_STEP</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>15.0.0.37239</string>
+	<key>PDFL_IPID</key>
+	<string>&lt;AdobeIP#0000583&gt;</string>
+	<key>ReleaseCL</key>
+	<string>220832</string>
+</dict>
+</plist>
