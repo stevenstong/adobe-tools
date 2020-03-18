@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest version="2.0">
+ <versioninfo>
+  <build build="20190621.1001" compilertarget="Release" datetime="2018/06/21:18:06:26" format="Folder" lang="mul" licensemodel="None" platform="win64" product="AGL" subproduct="Library" version="9.0">
+   <repository authority="ssl:wasabi.corp.adobe.com:20300" path="//releases/gtlib/gtlib_main/source/aglc/aglc64.2/source/..." query="@1972343" scheme="p4"/>
+   <repository authority="ssl:wasabi.corp.adobe.com:20300" path="//releases/gtlib/gtlib_main/public/aglc/aglc64.2/libs/x64-vs2017-release/..." query="@1972346" scheme="p4"/>
+   <metadata>
+    <item key="BuildVersion" value="gtlib_12.0.24171"/>
+   </metadata>
+  </build>
+ </versioninfo>
+</manifest>
+

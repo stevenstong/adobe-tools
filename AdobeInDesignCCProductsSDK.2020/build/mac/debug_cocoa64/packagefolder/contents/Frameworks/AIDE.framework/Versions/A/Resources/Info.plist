@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AIDE_IPID</key>
+	<string>&lt;AdobeIP#0000772&gt;</string>
+	<key>BuildDate</key>
+	<string>2019/09/09-16:07:36</string>
+	<key>BuildID</key>
+	<string>44606</string>
+	<key>BuildType</key>
+	<string>Debug</string>
+	<key>BuildVersion</key>
+	<string>79.613133</string>
+	<key>CFBundleExecutable</key>
+	<string>AIDE</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AIDE 1.5.0.44606, Copyright 2009 Adobe Systems Incorporated. All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.AIDE</string>
+	<key>CFBundleName</key>
+	<string>AIDE</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.5.0.44606</string>
+</dict>
+</plist>

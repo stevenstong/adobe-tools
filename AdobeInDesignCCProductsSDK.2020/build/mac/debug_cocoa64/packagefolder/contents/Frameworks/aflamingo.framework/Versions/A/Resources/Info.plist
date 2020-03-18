@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildDate</key>
+	<string>2014/01/23-09:27:31</string>
+	<key>BuildID</key>
+	<string>1</string>
+	<key>BuildType</key>
+	<string>Debug</string>
+	<key>BuildVersion</key>
+	<string>79.547886</string>
+	<key>CFBundleExecutable</key>
+	<string>aflamingo</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AFlamingo 2.4.402.1, Copyright © 2009-2011 Adobe Systems Incorporated.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.AFlamingo</string>
+	<key>CFBundleName</key>
+	<string>AFlamingo</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>AFlamingo 2.4.402.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.4.402.1</string>
+	<key>Configuration</key>
+	<string>Debug</string>
+</dict>
+</plist>

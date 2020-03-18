@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildDate</key>
+	<string>2019/05/02-11:20:21</string>
+	<key>BuildId</key>
+	<string>43549</string>
+	<key>BuildType</key>
+	<string>Release</string>
+	<key>BuildVersion</key>
+	<string>79.272615</string>
+	<key>CFBundleExecutable</key>
+	<string>AdobeSangamML</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AdobeSangamML 5.65.0.43549, © 2000-2009 Adobe Systems Incorporated. All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.AdobeSangamML</string>
+	<key>CFBundleName</key>
+	<string>AdobeSangamML</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>AdobeSangamML 5.65.0.43549</string>
+	<key>CFBundleSignature</key>
+	<string>Adbe</string>
+	<key>CFBundleVersion</key>
+	<string>5.65.0.43549</string>
+	<key>Configuration</key>
+	<string>AdobeSangamML</string>
+</dict>
+</plist>

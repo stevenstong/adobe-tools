@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .fill {
+        fill: #fff;
+        opacity: 0.65;
+      }
+      }
+    </style>
+  </defs>
+  <title>menuBullet</title>
+  <g id="final">
+    <circle class="fill" cx="10" cy="12" r="7"/>
+  </g>
+</svg>
